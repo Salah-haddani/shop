@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "sacs",
+    "name": "Sacs",
+    "image": "/images/categories/sacs.jpg",
+    "description": "Cabas, pochettes, sacs à bandoulière et clutchs — toutes les silhouettes pour accompagner votre style au quotidien."
+  },
+  {
+    "slug": "chaussures",
+    "name": "Chaussures",
+    "image": "/images/categories/chaussures.jpg",
+    "description": "Escarpins, sandales, babouches et mules — des chaussures féminines alliant confort et élégance."
+  },
+  {
+    "slug": "accessoires",
+    "name": "Accessoires",
+    "image": "/images/categories/accessoires.jpg",
+    "description": "Ceintures, foulards, bijoux et lunettes — les petits détails qui font toute la différence."
+  },
+  {
+    "slug": "nouveautes",
+    "name": "Nouveautés",
+    "image": "/images/categories/nouveautes.jpg",
+    "description": "Les dernières arrivées de la saison — soyez la première à les porter."
+  }
+]
